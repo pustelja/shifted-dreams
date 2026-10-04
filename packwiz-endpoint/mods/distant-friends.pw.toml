@@ -1,0 +1,13 @@
+name = "Distant Friends"
+filename = "DistantFriends-forge-1.20.1-0.5.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/CDaJ8xGu/versions/Rqieb9Fl/DistantFriends-forge-1.20.1-0.5.6.jar"
+hash-format = "sha512"
+hash = "468e0b41ef603eeb5626a65d3ef1a66294e42572fb48cab2a169ff2afbfa9fb66cf2273b5ce2b22fb6ea6c04baabdb6190f23f081013510e53f064d866214203"
+
+[update]
+[update.modrinth]
+mod-id = "CDaJ8xGu"
+version = "Rqieb9Fl"

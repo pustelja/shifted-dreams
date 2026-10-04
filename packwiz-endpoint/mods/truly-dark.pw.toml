@@ -1,0 +1,13 @@
+name = "Truly Dark"
+filename = "trulydark-forge-mc1201-2.0.0-LOCAL.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8d84773cba000074a6685f36bedcc1ba82a3d2bc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8763709
+project-id = 1520893

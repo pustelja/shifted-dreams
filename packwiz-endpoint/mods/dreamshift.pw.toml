@@ -1,0 +1,13 @@
+name = "Dreamshift"
+filename = "dreamshift-0.1.4.3.1-forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/sdQwPACz/versions/CqcwRS7n/dreamshift-0.1.4.3.1-forge.jar"
+hash-format = "sha512"
+hash = "2e8a2998d72254f94c72ec05637c6c7c3129bcf5e39af62b5774477f1d25d3e2293e3577a16c749b0572541e2e49c53248217b341a61dd49bff47746dc0ce3fa"
+
+[update]
+[update.modrinth]
+mod-id = "sdQwPACz"
+version = "CqcwRS7n"
