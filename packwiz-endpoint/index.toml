@@ -201,6 +201,10 @@ file = "libvlccore.dll"
 hash = "a1df80950c0ef9dc74027d1f8500f02c6b5dec034648fe555d2a819d05d2bbae"
 
 [[files]]
+file = "mods/MiningDimensions_Forge-1.20.1-1.6.0.jar"
+hash = "e419883c51f17369d57c298984011bf8651f90309173ba4315d4cc5014648861"
+
+[[files]]
 file = "mods/advancedperipherals.pw.toml"
 hash = "c7af4f96de5fa87d892dfd38ac42ce3fb55d738bdf38506550277838ca44b643"
 metafile = true
@@ -443,6 +447,10 @@ metafile = true
 file = "mods/what-are-they-up-to.pw.toml"
 hash = "c557d1b26559ef987c229187d2f2705616e78179ce04fa1c96cc3d76a1cdf1b5"
 metafile = true
+
+[[files]]
+file = "mods/worldportal-forge-0.0.10+1.20.1.jar"
+hash = "69284dd4abd530914fcb415276bfa7e163df3dd205176f2cdf043d838e9044c2"
 
 [[files]]
 file = "mods/worldportal.pw.toml"
