@@ -395,6 +395,11 @@ hash = "f83b253ca6a8e6f2f847952704da0e1fb00e65cbb10b7c9cb15d1a1780618da0"
 metafile = true
 
 [[files]]
+file = "mods/presence.pw.toml"
+hash = "eaf6f44d866aeaf71744f1feef16c85fddedec754361c174cb0442723123e235"
+metafile = true
+
+[[files]]
 file = "mods/proximity-text-chat.pw.toml"
 hash = "e658e9a214d18b3957a7a4d399d8002fc244bc2535fb23255d1869645be578c8"
 metafile = true

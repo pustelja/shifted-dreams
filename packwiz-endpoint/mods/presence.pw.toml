@@ -1,0 +1,13 @@
+name = "presence"
+filename = "presence-1.0.0-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b282a6406c084bbdf094d2491c07de012cc6eef7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7625780
+project-id = 1461032
