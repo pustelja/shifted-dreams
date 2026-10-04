@@ -220,6 +220,11 @@ hash = "c8f984de86934785890b0e463617ad6fae2d25aed7992bd9afa5c307ef4983da"
 metafile = true
 
 [[files]]
+file = "mods/appleskin.pw.toml"
+hash = "793693a85f3c87d4e899ee0c58deabc53690bf5a70f17343f28fd5063ce8a1e1"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "4e81241ba2da06f425efc5e09fb6b38470125c1581c39e1310c5843a0b96ec76"
 metafile = true
@@ -397,6 +402,11 @@ metafile = true
 [[files]]
 file = "mods/resourceful-config.pw.toml"
 hash = "b85e8417e797be3fdae046c487eeda8f54cdc88f3f20e462e0e229f8dd734214"
+metafile = true
+
+[[files]]
+file = "mods/rhino.pw.toml"
+hash = "5b92406160d9ea8a61ddf111caaecb7f6283678e2c40b08b72dce3eeaf20dc96"
 metafile = true
 
 [[files]]
