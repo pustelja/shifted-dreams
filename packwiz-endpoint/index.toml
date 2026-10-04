@@ -445,6 +445,11 @@ hash = "a5254630759b0cbc447de26ca9d78529112341dd3a0ec36d9bb9cf6907e74a02"
 metafile = true
 
 [[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "416bb6449da951ec1a04156348c502b9e47a947212becc173d277faaddaaaccd"
+metafile = true
+
+[[files]]
 file = "mods/stalker-creepers.pw.toml"
 hash = "3469ef199570861698c7a23a45ef91bd5e3bf84dd69baaaea988c4c8edd042f3"
 metafile = true
