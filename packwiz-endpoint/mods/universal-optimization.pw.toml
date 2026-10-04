@@ -1,0 +1,13 @@
+name = "Universal Optimization"
+filename = "UniversalOptimization-3.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/VoDxwOyQ/versions/elCjkNUc/UniversalOptimization-3.0.jar"
+hash-format = "sha512"
+hash = "0b5208f76f61a49a942252a666edac95673cfda93d0327398aafe8ef5a6cbfeae1344c09ed6f728d63c8c6bc3cce35bffd3af3bd53f4a4fa45d6251f3c16174d"
+
+[update]
+[update.modrinth]
+mod-id = "VoDxwOyQ"
+version = "elCjkNUc"

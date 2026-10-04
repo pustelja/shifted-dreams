@@ -1,13 +1,13 @@
 name = "World Portal"
 filename = "worldportal-forge-0.0.10+1.20.1.jar"
-side = "server"
+side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/A2PZGios/versions/D5jFGjDQ/worldportal-forge-0.0.10%2B1.20.1.jar"
-hash-format = "sha512"
-hash = "1088c322f7b49a6b48f750fc2522a4ce8bf94d3e00d7af2e8a9871ad7f79744b49c9a44aabf3b361738ef344dc6475a7aa0f94e8328e8a8b4f7b4d4f70ea2459"
+hash-format = "sha1"
+hash = "bb195d9324f448a60781cc1c0175859cb546dda5"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "A2PZGios"
-version = "D5jFGjDQ"
+[update.curseforge]
+file-id = 7680757
+project-id = 1205026

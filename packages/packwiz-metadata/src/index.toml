@@ -206,6 +206,11 @@ hash = "c7af4f96de5fa87d892dfd38ac42ce3fb55d738bdf38506550277838ca44b643"
 metafile = true
 
 [[files]]
+file = "mods/anvil-fix.pw.toml"
+hash = "6d10c41838b2d5428016c3b1d59898a941803fb901a531a24650c6285cbd5c00"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "4e81241ba2da06f425efc5e09fb6b38470125c1581c39e1310c5843a0b96ec76"
 metafile = true
@@ -221,6 +226,11 @@ hash = "2bcea8e16d358942a8f8b8cf6e39cc303d90fac29b1b3ecb8033bd214d4afa0f"
 metafile = true
 
 [[files]]
+file = "mods/brandons-core.pw.toml"
+hash = "b6d8fef872aac09946c194edf3684b64af1a70e150f3703e380676e4f938c982"
+metafile = true
+
+[[files]]
 file = "mods/cc-tweaked.pw.toml"
 hash = "b45509d9a6942e123bcadeb4ff2fae1f2acb8d8a84fc772ee518a837751fcf40"
 metafile = true
@@ -231,18 +241,33 @@ hash = "7eac00def4395b62dc85d04a9f52e022736404fd44c1cd11b052fdab127ec7cb"
 metafile = true
 
 [[files]]
+file = "mods/chatnotify.pw.toml"
+hash = "e23c3381c2560042a27e7ee5c46b5a7b8540eb797c3dde3bd981e80ff25a9cc4"
+metafile = true
+
+[[files]]
 file = "mods/classicperipherals.pw.toml"
 hash = "e647348697ab79203a0b890bd8f31d67b022d5f2c74b9d8ac5e87783959c7c0c"
 metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "e3dd03e7fec88831974857e2cdded54dd5c5bdcaa3f6d6248c2800e82db4dd41"
+hash = "96204145e12506e0625d8b9bfa05aad54e9a62fd511bae39f0d57fcb5e39f4cc"
+metafile = true
+
+[[files]]
+file = "mods/codechicken-lib.pw.toml"
+hash = "5d5049e9d4a886b2fa84215fc2bd8a38a8e0c0395c2e753d92907e4a30888d2a"
 metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
 hash = "3c0b6765d093814a2862c94fd7956f35bb30d9c5b9ed62a5b9e731be69a86b13"
+metafile = true
+
+[[files]]
+file = "mods/coroutil.pw.toml"
+hash = "b2c7739b56ef71f50a86658cfa67375796beafd391c4dbe26a5de8cd92b9b685"
 metafile = true
 
 [[files]]
@@ -257,12 +282,22 @@ metafile = true
 
 [[files]]
 file = "mods/dimensionfixer.pw.toml"
-hash = "6f3744e04e5d42da93ad7dc4cf1d0d807cd549baad2e6fcc34addff1bc982fa1"
+hash = "a3ddfe27afab031ef14c9d02d7c4320660c6df6960ac5c5e2058e9a7e85ab60b"
 metafile = true
 
 [[files]]
 file = "mods/distant-friends.pw.toml"
 hash = "895b6618f8fb25ac29b443c4c58566ba242fc3c6a20813b1bb9c205bfc71eb59"
+metafile = true
+
+[[files]]
+file = "mods/draconic-evolution-render-patcher.pw.toml"
+hash = "3970dc874917a6105cf9df77c91a6ae87e03b46fe7ab6de4536a8db6c9257c9c"
+metafile = true
+
+[[files]]
+file = "mods/draconic-evolution.pw.toml"
+hash = "bd39c958001bcdf13acd853692e21d57c34b199ffb5343a14f38eb657a84d65b"
 metafile = true
 
 [[files]]
@@ -281,13 +316,53 @@ hash = "5ec0c37f3f4ad07a40c10376668bca80334ddb7ad2bab06eb4de8f7aac339c8e"
 metafile = true
 
 [[files]]
+file = "mods/entityculling.pw.toml"
+hash = "03783bea6895d8acf198ac7d8bce4f91746659d0954f7367d0029b11963edee0"
+metafile = true
+
+[[files]]
 file = "mods/explorify.pw.toml"
 hash = "9f5e29573d64c3e33e372a2d2140335bcb1d84c3afcfc0933cad258acbd4178e"
 metafile = true
 
 [[files]]
+file = "mods/farmers-delight.pw.toml"
+hash = "c83385838fbf5cdd40684e5f6d4b7bcc2126de4abca229a60b7063e57a5a4615"
+metafile = true
+
+[[files]]
 file = "mods/glitchcore.pw.toml"
 hash = "71f185e62d546881244d4b5a213ebc3d2d6df14b0218c0e5dd6426fcb22cb55f"
+metafile = true
+
+[[files]]
+file = "mods/immersive-optimization.pw.toml"
+hash = "b7150892cf691462d06267b47aa2e90b10f6cfb6534065533fc41bd85354f03b"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "df724beef20c6a6458b6eced0a36d6ac72dffe00849676f80bdf328207f6d061"
+metafile = true
+
+[[files]]
+file = "mods/mekanism-generators.pw.toml"
+hash = "ff3c572cc8a57df72f4a9ee7aa06388bec703a7f9bf08068a62fe3221efe3e80"
+metafile = true
+
+[[files]]
+file = "mods/mekanism.pw.toml"
+hash = "426fd37ec95797af16797632e70c63436ca12719c0adb16ffca931970a411ee2"
+metafile = true
+
+[[files]]
+file = "mods/mezzconfig.pw.toml"
+hash = "c25495262a852dc02886ec8c4b695f30e53264a2e3d881dd36ee9de16a1ef499"
+metafile = true
+
+[[files]]
+file = "mods/mining-dimensions-forge.pw.toml"
+hash = "34b43828a8c94aba982afb91ef23a86f9e658d3dfe90228a55bea0f419af5554"
 metafile = true
 
 [[files]]
@@ -298,6 +373,16 @@ metafile = true
 [[files]]
 file = "mods/proximity-text-chat.pw.toml"
 hash = "e658e9a214d18b3957a7a4d399d8002fc244bc2535fb23255d1869645be578c8"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-config.pw.toml"
+hash = "b85e8417e797be3fdae046c487eeda8f54cdc88f3f20e462e0e229f8dd734214"
+metafile = true
+
+[[files]]
+file = "mods/rispwinds-mining-dimension.pw.toml"
+hash = "5d7345ac35ff418b834a980e509a44e7d19fd8c23c7900613c8e63af6fcd7827"
 metafile = true
 
 [[files]]
@@ -322,12 +407,17 @@ metafile = true
 
 [[files]]
 file = "mods/superflatdimension.pw.toml"
-hash = "d5a54547f5e401f47d71786d5d31deb9cafe5cfb32da91f84b8d452c21b2a790"
+hash = "e70663478f99c5ff8090373b2cfe42ab3bd3c18aa50b386f3380e5e768f0232a"
 metafile = true
 
 [[files]]
 file = "mods/terrablender.pw.toml"
 hash = "64c3a0ec2e1a1759bda925487c525944d5d3877b73710805024bca6893bab1d3"
+metafile = true
+
+[[files]]
+file = "mods/torohealth-damage-indicators-updated.pw.toml"
+hash = "ab6abcf57153b3e1d9f227b2602a66b6dd0926edd006348b72d21594f20aac2c"
 metafile = true
 
 [[files]]
@@ -340,13 +430,23 @@ file = "mods/trulydark-forge-mc1201-2.0.0-LOCAL.jar"
 hash = "bfdf4d6d4f5feb276a4e1f8ef07ee8409d4ac12bc516c2c46c8a18c775665275"
 
 [[files]]
+file = "mods/universal-optimization.pw.toml"
+hash = "8424072162e4c5ba0dfd5954b31d8b63a3d3f63ed55ffe38d5684674a81b67c1"
+metafile = true
+
+[[files]]
 file = "mods/walkie-talkie.pw.toml"
 hash = "ca2a6b51aa613a0cfdd5a7a1af9f6d36601f8649d93b46aed19d8a36dd067335"
 metafile = true
 
 [[files]]
+file = "mods/what-are-they-up-to.pw.toml"
+hash = "c557d1b26559ef987c229187d2f2705616e78179ce04fa1c96cc3d76a1cdf1b5"
+metafile = true
+
+[[files]]
 file = "mods/worldportal.pw.toml"
-hash = "785ad5dff6f66c4f236ddae63b34f0959a88b7cd1631a3c1055951614c661dcc"
+hash = "87be4b1017aa53bba5546e034465d02fa5dcf34bc2918211dc2d6c0f9c586367"
 metafile = true
 
 [[files]]

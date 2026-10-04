@@ -1,0 +1,13 @@
+name = "Anvil Fix"
+filename = "AnvilFix-Forge-2.0.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/EB79Qy8k/versions/I9tDDxlv/AnvilFix-Forge-2.0.5.jar"
+hash-format = "sha512"
+hash = "ca476a526ae5a5229e15172787a3ae20630440fc1187bf9e64b4fa15bdbfc9017838c34319775d4f0ba4594a96aa7e443949cb1396b0824648403b5f92674a84"
+
+[update]
+[update.modrinth]
+mod-id = "EB79Qy8k"
+version = "I9tDDxlv"
