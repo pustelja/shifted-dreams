@@ -290,9 +290,8 @@ hash = "9eefd607e0d54ec444e798ccdeede1a09a3939440bd1e11c11b84c07a5134be2"
 metafile = true
 
 [[files]]
-file = "mods/dimensionfixer.pw.toml"
-hash = "a3ddfe27afab031ef14c9d02d7c4320660c6df6960ac5c5e2058e9a7e85ab60b"
-metafile = true
+file = "mods/dimensionfixer-forge-0.0.10+1.20.1.jar"
+hash = "6568decb7da0f61d74d87549f782074925093e485f6f13433f40e46bb770a662"
 
 [[files]]
 file = "mods/distant-friends.pw.toml"
