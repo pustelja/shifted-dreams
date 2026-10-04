@@ -1,6 +1,166 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/Advancedperipherals/general.toml"
+hash = "6b3115248f87c339c5ae934d586f48df30f039b0254b4c5f187f7fb17e3901dc"
+
+[[files]]
+file = "config/Advancedperipherals/metaphysics.toml"
+hash = "83f084ba957cb0aba4a8e0cdd9eb6b17eef5fb632fc30e036c295402098ec6d0"
+
+[[files]]
+file = "config/Advancedperipherals/peripherals.toml"
+hash = "96225cff7ffb8eb451a86a9280a1863be43e191ed271f44cb95e03a01feb27d0"
+
+[[files]]
+file = "config/Advancedperipherals/world.toml"
+hash = "64417fb1e25e707e7fca99d923016c900b91ef958a092b42e7145933893e7d15"
+
+[[files]]
+file = "config/WalkieTalkie.properties"
+hash = "966db186653596d64a0eef2993c8b8e543b957ea6ad6d0bce7aac9253fcb566a"
+
+[[files]]
+file = "config/artifacts/client.json5"
+hash = "dfae4a12bf924a5e12380032ff257ec535c6b003fef539a3893adb05c0a69c56"
+
+[[files]]
+file = "config/artifacts/common.json5"
+hash = "736bec8c910558091bb749ac7adb013822a253a02f1f70637eb193952768d2b1"
+
+[[files]]
+file = "config/chat_heads.json5"
+hash = "e198750061411cf7fca624e38b894ca104ca2cf2c2940da0409ce4240dcc2503"
+
+[[files]]
+file = "config/classicperipherals.toml"
+hash = "1ee98be1ffe155ae63d5acaf8eff0cea6a615e0f64f75f819f19ccd978aa2a25"
+
+[[files]]
+file = "config/collective.json5"
+hash = "92809d098b5efeca95c37ec4fef9184bd169160d18efecf81f395c4030c0f83f"
+
+[[files]]
+file = "config/computercraft-client.toml"
+hash = "09eee1f5405110edb02064e2163b32b0ecff39756f8e1fb88dc37a08e452d574"
+
+[[files]]
+file = "config/create-client.toml"
+hash = "5b9ee8bee23d0f12b926567309802eed6f1f46a195726b2b034d692deb833b65"
+
+[[files]]
+file = "config/create-common.toml"
+hash = "6c0f6254798808bce8079a1cfafe4d6c082cead42c51d1e3121f3580f8a44eca"
+
+[[files]]
+file = "config/curios-client.toml"
+hash = "3903cd1fcf402a8c155f21bb581eb78d26e067537cb8af0b24bb8b8be63b3b30"
+
+[[files]]
+file = "config/curios-common.toml"
+hash = "541ee90994c1cf3d4e132df2ac3ff74004bc3952d3914ae843b5089a4dda8a95"
+
+[[files]]
+file = "config/dimensionfixer.json"
+hash = "ba07e81732df35c9328ec151ffb2d3361835be94b1a01f3f6c79610dab46eab0"
+
+[[files]]
+file = "config/distantfriends-common.toml"
+hash = "a20997e9f8029b96ae533dbc573e836ed45072fe341f23512c4491f182421423"
+
+[[files]]
+file = "config/dreamshift.json"
+hash = "4398f1b9c1d16c01ec80218f45f664ea1ab7d8c0aa635bc380f1e9c44f515a02"
+
+[[files]]
+file = "config/embeddium-fingerprint.json"
+hash = "16c77032cc55aebc208a070b7deb4bed025a9c4c929ca7cd6b79d943e2c11ee2"
+
+[[files]]
+file = "config/embeddium-mixins.properties"
+hash = "09ff183e061d93b79514bc171bf9118497578757e7a5c45946039487656e2619"
+
+[[files]]
+file = "config/embeddium-options.json"
+hash = "b4b0aaec74cd2c37a2d0d384a4195768d8d7cbc9f86c7d993694e394fa35664d"
+
+[[files]]
+file = "config/flywheel-client.toml"
+hash = "2c7195f67d51df85e9af2edb5915b0af09fcc20f60ba00aba1785a1f2609712a"
+
+[[files]]
+file = "config/fml.toml"
+hash = "1ed9280977d03a3e6d0661ae5c7217b49a4c40e255c88c6811b12b1b28f69ea5"
+
+[[files]]
+file = "config/forge-client.toml"
+hash = "a8448518860cd8b542dadf75521bfab981451775212ee1b51ddc646d998f9311"
+
+[[files]]
+file = "config/immersive_portals.json"
+hash = "1b349fa24ead559abb0a140d8e9fa788b80627791c83eee9be901751762b6b20"
+
+[[files]]
+file = "config/oculus.properties"
+hash = "6e26c9c6f92e5e591da79662e4945a3e70cef921c5c74fd8d0c35e302c7c275e"
+
+[[files]]
+file = "config/ponder-client.toml"
+hash = "7508f3f5ceed80c7c606d01ee2dc93e2c72a8afa199ccb691fc5225c894d5bbd"
+
+[[files]]
+file = "config/sophisticatedbackpacks-common.toml"
+hash = "b377e97ca3d8ae8560448b92ab820872d7c11bef0ca52dcf3f4901b44c6ddca7"
+
+[[files]]
+file = "config/sophisticatedcore-client.toml"
+hash = "4d77564fb4509f9ee615aab4d07a0d524dc63b6671c8afdb60b194f8529bac65"
+
+[[files]]
+file = "config/sophisticatedcore-common-1.toml.bak"
+hash = "80154a9912e05eed4d8496c393812b505711a04b5b867c35bc07a8a8decc8f88"
+
+[[files]]
+file = "config/sophisticatedcore-common-2.toml.bak"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/sophisticatedcore-common.toml"
+hash = "33545737a075e520f09f37ba8fa9d0932abbdaa76bc17490384829d21c3e9458"
+
+[[files]]
+file = "config/trulydark.properties"
+hash = "befc2968f1dda68c5b809efe4d06c0427f06ac2faaec57ed440160d71f5ae08d"
+
+[[files]]
+file = "config/voicechat-client.toml"
+hash = "366f0ef6b5ef068aa1e5ef636fa2ec723803b8bcf1b200f958ac99ec21edde72"
+
+[[files]]
+file = "config/voicechat/category-volumes.properties"
+hash = "3747c48bcb3a60834f88f056ee9b3a025153b11f6ca88652b4bddebb77cea009"
+
+[[files]]
+file = "config/voicechat/player-volumes.properties"
+hash = "cd385ca1eeda4df612631e2713cc6d503793157ef8bd5518d736429e6c1ae474"
+
+[[files]]
+file = "config/voicechat/translations.properties"
+hash = "b258a94a5ed60fbf93b66c452c3d6e36b044f630741f90e5b13852a4805b235e"
+
+[[files]]
+file = "config/voicechat/username-cache.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "config/voicechat/voicechat-client.properties"
+hash = "20c5d5ce6c214a43f573460cc1c0c9b1c916fda0f560927f330ec313a2609136"
+
+[[files]]
+file = "config/voicechat/voicechat-server.properties"
+hash = "44e28ca45bf8648f18a9363105a7faa363d254ed8ace91ff523193b60786968d"
+
+[[files]]
 file = "folder.jpg"
 hash = "e25da8b37c11fb6d132ff639386c1098d34b571d0ddb8671a91d8d5de0ca7ede"
 
@@ -175,7 +335,16 @@ hash = "ae206b5b726ec3bd9a7bbb8b4a88c80adb7e965481430dccd19fcdb19222d3dd"
 
 [[files]]
 file = "servers.dat"
-hash = "1b279e0ef23bdfbbf7f01dd09ee73600051ff34220b458bb8eee8e82890fc1cf"
+hash = "a781ab5ca97975b491c4b4e45926314ab0d6c2201b4418bebb529cc98e678ecc"
+
+[[files]]
+file = "shaderpacks/Solas Shader V3.7b.zip"
+hash = "b7dfe4c7353d677a92cc4c86b87bc0633f1014305d927ca6a482c303427bf825"
+
+[[files]]
+file = "shaderpacks/solas-shader.pw.toml"
+hash = "ac737ed42b63619a6ebe8bddff8ad51ff4bfe28a536fbace9a58a0f971c56517"
+metafile = true
 
 [[files]]
 file = "version.json"
