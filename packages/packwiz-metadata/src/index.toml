@@ -36,6 +36,11 @@ hash = "2de33e7d757cfa1108b05247cb59f6db2f08000af824da328322d78cdb7c4c4d"
 metafile = true
 
 [[files]]
+file = "mods/biomes-o-plenty.pw.toml"
+hash = "2bcea8e16d358942a8f8b8cf6e39cc303d90fac29b1b3ecb8033bd214d4afa0f"
+metafile = true
+
+[[files]]
 file = "mods/cc-tweaked.pw.toml"
 hash = "b45509d9a6942e123bcadeb4ff2fae1f2acb8d8a84fc772ee518a837751fcf40"
 metafile = true
@@ -101,6 +106,11 @@ hash = "9f5e29573d64c3e33e372a2d2140335bcb1d84c3afcfc0933cad258acbd4178e"
 metafile = true
 
 [[files]]
+file = "mods/glitchcore.pw.toml"
+hash = "71f185e62d546881244d4b5a213ebc3d2d6df14b0218c0e5dd6426fcb22cb55f"
+metafile = true
+
+[[files]]
 file = "mods/oculus.pw.toml"
 hash = "f83b253ca6a8e6f2f847952704da0e1fb00e65cbb10b7c9cb15d1a1780618da0"
 metafile = true
@@ -133,6 +143,11 @@ metafile = true
 [[files]]
 file = "mods/superflatdimension.pw.toml"
 hash = "d5a54547f5e401f47d71786d5d31deb9cafe5cfb32da91f84b8d452c21b2a790"
+metafile = true
+
+[[files]]
+file = "mods/terrablender.pw.toml"
+hash = "64c3a0ec2e1a1759bda925487c525944d5d3877b73710805024bca6893bab1d3"
 metafile = true
 
 [[files]]
