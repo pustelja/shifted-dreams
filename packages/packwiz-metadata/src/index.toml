@@ -365,11 +365,6 @@ hash = "c25495262a852dc02886ec8c4b695f30e53264a2e3d881dd36ee9de16a1ef499"
 metafile = true
 
 [[files]]
-file = "mods/mining-dimensions-forge.pw.toml"
-hash = "34b43828a8c94aba982afb91ef23a86f9e658d3dfe90228a55bea0f419af5554"
-metafile = true
-
-[[files]]
 file = "mods/oculus.pw.toml"
 hash = "f83b253ca6a8e6f2f847952704da0e1fb00e65cbb10b7c9cb15d1a1780618da0"
 metafile = true
@@ -451,11 +446,6 @@ metafile = true
 [[files]]
 file = "mods/worldportal-forge-0.0.10+1.20.1.jar"
 hash = "69284dd4abd530914fcb415276bfa7e163df3dd205176f2cdf043d838e9044c2"
-
-[[files]]
-file = "mods/worldportal.pw.toml"
-hash = "87be4b1017aa53bba5546e034465d02fa5dcf34bc2918211dc2d6c0f9c586367"
-metafile = true
 
 [[files]]
 file = "optionsshaders.txt"
