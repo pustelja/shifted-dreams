@@ -1,8 +1,8 @@
 hash-format = "sha256"
 
 [[files]]
-file = "folder.png"
-hash = "3c19c638395c26919beab2a020f905225139bde63e88f7d5325c9deafdb0ec58"
+file = "folder.jpg"
+hash = "e25da8b37c11fb6d132ff639386c1098d34b571d0ddb8671a91d8d5de0ca7ede"
 
 [[files]]
 file = "instance.json"
@@ -133,11 +133,6 @@ metafile = true
 [[files]]
 file = "mods/tree-harvester.pw.toml"
 hash = "dad45f3ba36bd3755525c70db7561c9cf087068c8e1d53b8108dd0d0f8bf0d8a"
-metafile = true
-
-[[files]]
-file = "mods/truly-dark.pw.toml"
-hash = "6f7106dddd860b810b2bebce95dc19c2250f18b5bf01983ab9f22dd723a2f5dd"
 metafile = true
 
 [[files]]
