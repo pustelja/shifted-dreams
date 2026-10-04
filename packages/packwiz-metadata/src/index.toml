@@ -215,6 +215,11 @@ hash = "6d10c41838b2d5428016c3b1d59898a941803fb901a531a24650c6285cbd5c00"
 metafile = true
 
 [[files]]
+file = "mods/apple-skins.pw.toml"
+hash = "c8f984de86934785890b0e463617ad6fae2d25aed7992bd9afa5c307ef4983da"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "4e81241ba2da06f425efc5e09fb6b38470125c1581c39e1310c5843a0b96ec76"
 metafile = true
@@ -347,6 +352,16 @@ metafile = true
 [[files]]
 file = "mods/jei.pw.toml"
 hash = "df724beef20c6a6458b6eced0a36d6ac72dffe00849676f80bdf328207f6d061"
+metafile = true
+
+[[files]]
+file = "mods/kubejs-create.pw.toml"
+hash = "e9ea701c9fc9bb54d1bd3b6998403a229f896449c0d15b5df23dc46e20ac5092"
+metafile = true
+
+[[files]]
+file = "mods/kubejs.pw.toml"
+hash = "9ec37ad87c0c174bdafe7d52fc98f96b83aaef0ad42ae59e196655d3d784f31f"
 metafile = true
 
 [[files]]
