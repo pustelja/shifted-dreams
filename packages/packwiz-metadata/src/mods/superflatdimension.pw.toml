@@ -1,0 +1,13 @@
+name = "Superflat Dimension"
+filename = "superflatdimension-forge-0.0.2+1.20.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/8SpfTsnq/versions/jO0HmU7a/superflatdimension-forge-0.0.2%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "b7d44460863a37d8d5c17fd1733075b37a1b8f51bdad89b510b609377770a9b77cbb26541d9878838cbee23e00b0562e678407f4bef16bab3594fc475bb3cf38"
+
+[update]
+[update.modrinth]
+mod-id = "8SpfTsnq"
+version = "jO0HmU7a"

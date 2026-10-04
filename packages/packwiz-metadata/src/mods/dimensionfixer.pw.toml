@@ -1,0 +1,13 @@
+name = "Dimension Fixer"
+filename = "dimensionfixer-forge-0.0.10+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/hJmXo78w/versions/akadRAKE/dimensionfixer-forge-0.0.10%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "05ebfb1dfdd87ffa1844d1bbc8a7aabaeacc96ac76df848e2cd60228e2968eefa2f193229558d7c24b813b7dbf6129937e55a0ea2bf65e050e168daedc609ae9"
+
+[update]
+[update.modrinth]
+mod-id = "hJmXo78w"
+version = "akadRAKE"

@@ -1,0 +1,158 @@
+hash-format = "sha256"
+
+[[files]]
+file = "folder.png"
+hash = "3c19c638395c26919beab2a020f905225139bde63e88f7d5325c9deafdb0ec58"
+
+[[files]]
+file = "instance.json"
+hash = "d5cf4ef19738ad4475fa24ec7edc0c644778214ba42783e0b1a12cbcf450be3c"
+
+[[files]]
+file = "knownkeys.txt"
+hash = "c238b63aa1e5ac79bc9b35a3b31380c3c100edacfebda8db268a6ba8eccf36c0"
+
+[[files]]
+file = "libvlc.dll"
+hash = "a6d88f6143dc04e3de6d768ee4e8e72ac0c651be9bdefbcb0a3acb529a5d8d1a"
+
+[[files]]
+file = "libvlccore.dll"
+hash = "a1df80950c0ef9dc74027d1f8500f02c6b5dec034648fe555d2a819d05d2bbae"
+
+[[files]]
+file = "mods/advancedperipherals.pw.toml"
+hash = "c7af4f96de5fa87d892dfd38ac42ce3fb55d738bdf38506550277838ca44b643"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "4e81241ba2da06f425efc5e09fb6b38470125c1581c39e1310c5843a0b96ec76"
+metafile = true
+
+[[files]]
+file = "mods/cc-tweaked.pw.toml"
+hash = "b45509d9a6942e123bcadeb4ff2fae1f2acb8d8a84fc772ee518a837751fcf40"
+metafile = true
+
+[[files]]
+file = "mods/chat-heads.pw.toml"
+hash = "7eac00def4395b62dc85d04a9f52e022736404fd44c1cd11b052fdab127ec7cb"
+metafile = true
+
+[[files]]
+file = "mods/classicperipherals.pw.toml"
+hash = "e647348697ab79203a0b890bd8f31d67b022d5f2c74b9d8ac5e87783959c7c0c"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "e3dd03e7fec88831974857e2cdded54dd5c5bdcaa3f6d6248c2800e82db4dd41"
+metafile = true
+
+[[files]]
+file = "mods/collective.pw.toml"
+hash = "3c0b6765d093814a2862c94fd7956f35bb30d9c5b9ed62a5b9e731be69a86b13"
+metafile = true
+
+[[files]]
+file = "mods/create.pw.toml"
+hash = "fb5c251cf4997fa65ca043bab7c9ecbd02e108031584a3e26276b77d212de23c"
+metafile = true
+
+[[files]]
+file = "mods/dimensionfixer.pw.toml"
+hash = "6f3744e04e5d42da93ad7dc4cf1d0d807cd549baad2e6fcc34addff1bc982fa1"
+metafile = true
+
+[[files]]
+file = "mods/distant-friends.pw.toml"
+hash = "895b6618f8fb25ac29b443c4c58566ba242fc3c6a20813b1bb9c205bfc71eb59"
+metafile = true
+
+[[files]]
+file = "mods/dreamshift.pw.toml"
+hash = "3103df6c581cca6ee597b7dd29a9009f691933fd481badaf8d4fa2be6378b05a"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-lights.pw.toml"
+hash = "ea969a2c6d77b5e7c8bd8ab8fe52c0c46de676a9cc517f014965699d90c5ed92"
+metafile = true
+
+[[files]]
+file = "mods/embeddium.pw.toml"
+hash = "5ec0c37f3f4ad07a40c10376668bca80334ddb7ad2bab06eb4de8f7aac339c8e"
+metafile = true
+
+[[files]]
+file = "mods/oculus.pw.toml"
+hash = "f83b253ca6a8e6f2f847952704da0e1fb00e65cbb10b7c9cb15d1a1780618da0"
+metafile = true
+
+[[files]]
+file = "mods/proximity-text-chat.pw.toml"
+hash = "e658e9a214d18b3957a7a4d399d8002fc244bc2535fb23255d1869645be578c8"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "3bd4e09190316b4c4901ba9fd822b891e2cf216eb645687458e3547ad13f93f0"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-backpacks.pw.toml"
+hash = "dcbb8301c31e095d0ead0aa21e2c139419cd8d36a46e3607adab2f8c5fce67bc"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-core.pw.toml"
+hash = "a5254630759b0cbc447de26ca9d78529112341dd3a0ec36d9bb9cf6907e74a02"
+metafile = true
+
+[[files]]
+file = "mods/stalker-creepers.pw.toml"
+hash = "3469ef199570861698c7a23a45ef91bd5e3bf84dd69baaaea988c4c8edd042f3"
+metafile = true
+
+[[files]]
+file = "mods/superflatdimension.pw.toml"
+hash = "d5a54547f5e401f47d71786d5d31deb9cafe5cfb32da91f84b8d452c21b2a790"
+metafile = true
+
+[[files]]
+file = "mods/tree-harvester.pw.toml"
+hash = "dad45f3ba36bd3755525c70db7561c9cf087068c8e1d53b8108dd0d0f8bf0d8a"
+metafile = true
+
+[[files]]
+file = "mods/true-darkness-biomes.pw.toml"
+hash = "9e1f88d0839d4d87024a043044dbc147b45c59d66424fc3fced223a9773c3fdf"
+metafile = true
+
+[[files]]
+file = "mods/truly-dark.pw.toml"
+hash = "6f7106dddd860b810b2bebce95dc19c2250f18b5bf01983ab9f22dd723a2f5dd"
+metafile = true
+
+[[files]]
+file = "mods/walkie-talkie.pw.toml"
+hash = "ca2a6b51aa613a0cfdd5a7a1af9f6d36601f8649d93b46aed19d8a36dd067335"
+metafile = true
+
+[[files]]
+file = "mods/worldportal.pw.toml"
+hash = "785ad5dff6f66c4f236ddae63b34f0959a88b7cd1631a3c1055951614c661dcc"
+metafile = true
+
+[[files]]
+file = "optionsshaders.txt"
+hash = "ae206b5b726ec3bd9a7bbb8b4a88c80adb7e965481430dccd19fcdb19222d3dd"
+
+[[files]]
+file = "servers.dat"
+hash = "1b279e0ef23bdfbbf7f01dd09ee73600051ff34220b458bb8eee8e82890fc1cf"
+
+[[files]]
+file = "version.json"
+hash = "ea7a2303e96150c23484f98ddd07db9cde8fd2b46e444cc41a8945c830073006"
