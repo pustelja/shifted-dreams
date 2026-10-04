@@ -350,6 +350,11 @@ hash = "dbf9faeb328cdb0cb7a41a8c9c238c59ea9c70e7683c5bfc55b783ad80e85a39"
 metafile = true
 
 [[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "902bac905b93271f02bd0951a22bac06a3da24f5c237fcaeb469e14a7679e508"
+metafile = true
+
+[[files]]
 file = "mods/glitchcore.pw.toml"
 hash = "71f185e62d546881244d4b5a213ebc3d2d6df14b0218c0e5dd6426fcb22cb55f"
 metafile = true
