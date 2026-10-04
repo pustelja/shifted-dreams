@@ -141,6 +141,10 @@ hash = "6f7106dddd860b810b2bebce95dc19c2250f18b5bf01983ab9f22dd723a2f5dd"
 metafile = true
 
 [[files]]
+file = "mods/trulydark-forge-mc1201-2.0.0-LOCAL.jar"
+hash = "bfdf4d6d4f5feb276a4e1f8ef07ee8409d4ac12bc516c2c46c8a18c775665275"
+
+[[files]]
 file = "mods/walkie-talkie.pw.toml"
 hash = "ca2a6b51aa613a0cfdd5a7a1af9f6d36601f8649d93b46aed19d8a36dd067335"
 metafile = true
