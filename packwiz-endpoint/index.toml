@@ -473,11 +473,6 @@ file = "mods/trulydark-forge-mc1201-2.0.0-LOCAL.jar"
 hash = "bfdf4d6d4f5feb276a4e1f8ef07ee8409d4ac12bc516c2c46c8a18c775665275"
 
 [[files]]
-file = "mods/universal-optimization.pw.toml"
-hash = "8424072162e4c5ba0dfd5954b31d8b63a3d3f63ed55ffe38d5684674a81b67c1"
-metafile = true
-
-[[files]]
 file = "mods/walkie-talkie.pw.toml"
 hash = "ca2a6b51aa613a0cfdd5a7a1af9f6d36601f8649d93b46aed19d8a36dd067335"
 metafile = true
