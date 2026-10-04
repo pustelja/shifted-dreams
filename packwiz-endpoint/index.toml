@@ -66,6 +66,11 @@ hash = "fb5c251cf4997fa65ca043bab7c9ecbd02e108031584a3e26276b77d212de23c"
 metafile = true
 
 [[files]]
+file = "mods/curios.pw.toml"
+hash = "9eefd607e0d54ec444e798ccdeede1a09a3939440bd1e11c11b84c07a5134be2"
+metafile = true
+
+[[files]]
 file = "mods/dimensionfixer.pw.toml"
 hash = "6f3744e04e5d42da93ad7dc4cf1d0d807cd549baad2e6fcc34addff1bc982fa1"
 metafile = true
