@@ -131,11 +131,6 @@ hash = "dad45f3ba36bd3755525c70db7561c9cf087068c8e1d53b8108dd0d0f8bf0d8a"
 metafile = true
 
 [[files]]
-file = "mods/true-darkness-biomes.pw.toml"
-hash = "9e1f88d0839d4d87024a043044dbc147b45c59d66424fc3fced223a9773c3fdf"
-metafile = true
-
-[[files]]
 file = "mods/truly-dark.pw.toml"
 hash = "6f7106dddd860b810b2bebce95dc19c2250f18b5bf01983ab9f22dd723a2f5dd"
 metafile = true
