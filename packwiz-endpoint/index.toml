@@ -29,6 +29,18 @@ file = "config/artifacts/common.json5"
 hash = "736bec8c910558091bb749ac7adb013822a253a02f1f70637eb193952768d2b1"
 
 [[files]]
+file = "config/biomesoplenty/biome_toggles.json"
+hash = "6e81cf8f8ffd55004413d05e2579a63613d39a180bf5a4ff67ffa98ec44b1aa9"
+
+[[files]]
+file = "config/biomesoplenty/gameplay.toml"
+hash = "4d2c61e691eb5e07dbea9c8dd3b03073911d01558ff741073561b5b4328f87fd"
+
+[[files]]
+file = "config/biomesoplenty/generation.toml"
+hash = "9f6f4e0b8cebc8210273e49a9b436c3e6a5bfb5695c2b44ce346d56b96ef9996"
+
+[[files]]
 file = "config/chat_heads.json5"
 hash = "e198750061411cf7fca624e38b894ca104ca2cf2c2940da0409ce4240dcc2503"
 
@@ -102,7 +114,7 @@ hash = "1b349fa24ead559abb0a140d8e9fa788b80627791c83eee9be901751762b6b20"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "6e26c9c6f92e5e591da79662e4945a3e70cef921c5c74fd8d0c35e302c7c275e"
+hash = "72dcd3a121b13a7fc17d92f53b7e7d1116b9e42ed1929b0da52b6513707ca952"
 
 [[files]]
 file = "config/ponder-client.toml"
@@ -118,19 +130,27 @@ hash = "4d77564fb4509f9ee615aab4d07a0d524dc63b6671c8afdb60b194f8529bac65"
 
 [[files]]
 file = "config/sophisticatedcore-common-1.toml.bak"
-hash = "80154a9912e05eed4d8496c393812b505711a04b5b867c35bc07a8a8decc8f88"
+hash = "9df4415ddf93541e05bc23a87cf526e13f8f195be1ebd842e522257754a52eee"
 
 [[files]]
 file = "config/sophisticatedcore-common-2.toml.bak"
+hash = "80154a9912e05eed4d8496c393812b505711a04b5b867c35bc07a8a8decc8f88"
+
+[[files]]
+file = "config/sophisticatedcore-common-3.toml.bak"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/sophisticatedcore-common.toml"
-hash = "33545737a075e520f09f37ba8fa9d0932abbdaa76bc17490384829d21c3e9458"
+hash = "793901b3d918411d3426032d980998de5d0447dade875acd6e45906d4b9c0fad"
+
+[[files]]
+file = "config/terrablender.toml"
+hash = "70da8cd57cd321ae43ec3774995de812116c67163c0ae8859965a3599e3aeefa"
 
 [[files]]
 file = "config/trulydark.properties"
-hash = "befc2968f1dda68c5b809efe4d06c0427f06ac2faaec57ed440160d71f5ae08d"
+hash = "98378a1ef1a055e103e9fbf266a16235bcee66386871dc33c7540e98123ff9ab"
 
 [[files]]
 file = "config/voicechat-client.toml"
@@ -161,8 +181,8 @@ file = "config/voicechat/voicechat-server.properties"
 hash = "44e28ca45bf8648f18a9363105a7faa363d254ed8ace91ff523193b60786968d"
 
 [[files]]
-file = "folder.jpg"
-hash = "e25da8b37c11fb6d132ff639386c1098d34b571d0ddb8671a91d8d5de0ca7ede"
+file = "folder.png"
+hash = "46769e10200b9962c8c90050f4bfc7f2b6aa2a58c7b4d664f85d63a5f94afc3e"
 
 [[files]]
 file = "instance.json"
@@ -338,8 +358,25 @@ file = "servers.dat"
 hash = "a781ab5ca97975b491c4b4e45926314ab0d6c2201b4418bebb529cc98e678ecc"
 
 [[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.9.3.zip"
+hash = "fed6c879e732cf7fc7bc6570ebb1def43235aa7e96f62859fbdbdbfa0b484b38"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.9.3.zip.txt"
+hash = "ef682ab958cacca371edcc90741e3e848277a7ebe4689253bf374028ae997328"
+
+[[files]]
 file = "shaderpacks/Solas Shader V3.7b.zip"
 hash = "b7dfe4c7353d677a92cc4c86b87bc0633f1014305d927ca6a482c303427bf825"
+
+[[files]]
+file = "shaderpacks/Solas Shader V3.7b.zip.txt"
+hash = "1453390b26660ed091689383c2bbd80345e064684736287356b2be481533e031"
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "7d13a6a314dcc04bd66c2a8330b986f56730268c56d3148a536a85de83cbf4f5"
+metafile = true
 
 [[files]]
 file = "shaderpacks/solas-shader.pw.toml"
